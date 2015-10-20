@@ -1,0 +1,6 @@
+name: jupyter-fly
+
+dependencies:
+  - gdal
+  - pip:
+    - pythreejs

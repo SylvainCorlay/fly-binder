@@ -1,3 +1,0 @@
-pythreejs
-ipywidgets
-gdal
