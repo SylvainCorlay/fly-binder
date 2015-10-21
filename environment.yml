@@ -5,4 +5,4 @@ dependencies:
   - matplotlib
   - scikit-image
   - pip:
-    - pythreejs
+    - git+https://github.com/SylvainCorlay/pythreejs.git@relative
