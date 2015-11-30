@@ -5,4 +5,4 @@ dependencies:
   - matplotlib
   - scikit-image
   - pip:
-    - git+https://github.com/SylvainCorlay/pythreejs.git@relative
+    - git+https://github.com/SylvainCorlay/pythreejs.git@url_prefix
